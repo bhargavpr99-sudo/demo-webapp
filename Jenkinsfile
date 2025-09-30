@@ -11,7 +11,7 @@ pipeline {
             steps {
                 // Pulls code from your repository
                 git branch: 'master',
-                    url: 'https://github.com/your-repo/demo-webapp.git'
+                    url: 'https://github.com/bhargavpr99-sudo/demo-webapp.git'
             }
         }
 
